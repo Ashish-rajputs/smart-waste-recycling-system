@@ -1,0 +1,28 @@
+{
+  "name": "smart-waste-recycling-system",
+  "version": "1.0.0",
+  "description": "The Smart Waste Recycling System aims to make recyclable waste collection easier by allowing users to submit waste details and request pickups. It will help manage waste records, collection requests, collectors, and recycling rewards.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashish-rajputs/smart-waste-recycling-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ashish-rajputs/smart-waste-recycling-system/issues"
+  },
+  "homepage": "https://github.com/Ashish-rajputs/smart-waste-recycling-system#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "mysql2": "^3.24.5"
+  }
+}
